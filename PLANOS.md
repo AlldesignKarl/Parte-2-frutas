@@ -119,7 +119,7 @@ Lía drives tensely; rain streams on the windshield; wipers move; street lights 
 ```
 
 **🗣️ Voz:**
-- **Lía** · en cámara → lip-sync · _angustiada_: «Voy para allá. No hagas nada tú solo, Bruno.»
+- **Lía** · en cámara → lip-sync · _angustiada_: «Voy para allá. Y no te hagas el héroe, ¿vale?»
 
 **🔊 Sonido:** Lluvia en el techo, limpiaparabrisas, motor.
 
@@ -162,7 +162,7 @@ Mist flows out from under the shutter around Bruno's boots; he points the flashl
 ```
 
 **🗣️ Voz:**
-- **Bruno** · en cámara → lip-sync · _extrañado, en voz baja_: «¿Niebla...? ¿Aquí dentro?»
+- **Bruno** · en cámara → lip-sync · _extrañado, en voz baja_: «¿Niebla...? ¿Aquí dentro? Qué random...»
 
 **🔊 Sonido:** Siseo de frío, crujido de hielo.
 
@@ -205,7 +205,7 @@ Rocco glances nervously over his shoulder and talks quietly; drops of sweat free
 ```
 
 **🗣️ Voz:**
-- **Rocco** · en cámara → lip-sync · _nervioso, susurrando_: «Bruno... ¿qué haces aquí? Este pasillo no es de tu ronda.»
+- **Rocco** · en cámara → lip-sync · _nervioso, susurrando_: «Bro... ¿qué haces aquí? Este pasillo no es de tu ronda.»
 
 **🔊 Sonido:** Zumbido del congelador.
 
@@ -251,7 +251,7 @@ Rocco leans in close and whispers, his eyes darting; his breath turns to vapor. 
 ```
 
 **🗣️ Voz:**
-- **Rocco** · en cámara → lip-sync · _susurro asustado_: «Vete a casa, Bruno. Esta noche no has visto nada. Por tu bien.»
+- **Rocco** · en cámara → lip-sync · _susurro asustado_: «Vete a casa, tío. Esta noche no has visto nada. Por tu bien.»
 
 **🔊 Sonido:** Dron grave.
 

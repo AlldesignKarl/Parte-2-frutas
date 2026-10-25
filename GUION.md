@@ -36,7 +36,7 @@
 *[0:24] Plano 05.* Lía conduce bajo la lluvia, con el móvil en manos libres.
 
 **LÍA** _(angustiada)_
-> Voy para allá. No hagas nada tú solo, Bruno.
+> Voy para allá. Y no te hagas el héroe, ¿vale?
 
 
 ### ESCENA 4 — INT. CENTRO COMERCIAL GRAN VERGEL — NOCHE
@@ -49,14 +49,14 @@
 *[0:34] Plano 07.* Bruno llega a Helados Delicia. La persiana está medio bajada y por debajo sale una niebla helada.
 
 **BRUNO** _(extrañado, en voz baja)_
-> ¿Niebla...? ¿Aquí dentro?
+> ¿Niebla...? ¿Aquí dentro? Qué random...
 
 *[0:40] Plano 08.* ¡CLANG! Bruno se gira. De un pasillo lateral sale Rocco, la enorme piña con delantal y guantes térmicos, echando vaho por la boca.
 
 *[0:45] Plano 09.* Rocco, sudando y mirando por encima del hombro, intenta que Bruno se vaya.
 
 **ROCCO** _(nervioso, susurrando)_
-> Bruno... ¿qué haces aquí? Este pasillo no es de tu ronda.
+> Bro... ¿qué haces aquí? Este pasillo no es de tu ronda.
 
 *[0:51] Plano 10.* Bruno, desconfiado, le pregunta por Nico.
 
@@ -66,7 +66,7 @@
 *[0:56] Plano 11.* Rocco se acerca y le susurra una advertencia.
 
 **ROCCO** _(susurro asustado)_
-> Vete a casa, Bruno. Esta noche no has visto nada. Por tu bien.
+> Vete a casa, tío. Esta noche no has visto nada. Por tu bien.
 
 *[1:02] Plano 12.* Rocco se aleja hacia la oscuridad. Bruno lo ve marcharse.
 

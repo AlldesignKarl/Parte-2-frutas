@@ -152,6 +152,11 @@ Establishing shot, no characters: a huge modern shopping mall exterior at night 
 Establishing shot, no characters: the inside of a small car driving at night in the rain, raindrops streaming on the windshield, wipers moving, blurred city lights and traffic lights outside, dashboard glow. high-end 3D animated feature film still, Pixar and DreamWorks quality CGI, hyper-detailed photorealistic fruit textures, realistic human body proportions, cinematic lighting, volumetric light, shallow depth of field, rich semi-realistic detailed background, subtle film grain, 8k. Vertical 9:16 composition. --ar 9:16
 ```
 
+### Aparcamiento del centro comercial
+```
+Establishing shot, no characters: the outdoor parking lot of a huge modern shopping mall with a big 'GRAN VERGEL' sign and a pink-red neon 'HELADOS DELICIA' cherry sign on the facade, rows of parked cars, lampposts. high-end 3D animated feature film still, Pixar and DreamWorks quality CGI, hyper-detailed photorealistic fruit textures, realistic human body proportions, cinematic lighting, volumetric light, shallow depth of field, rich semi-realistic detailed background, subtle film grain, 8k. Vertical 9:16 composition. --ar 9:16
+```
+
 ### Interior del centro comercial, noche
 ```
 Establishing shot, no characters: the interior of a huge empty shopping mall at night, a three-floor atrium with stopped escalators, closed glass storefronts, half of the lights off, polished reflective floor, long dark corridors, cold blue night lighting with a few flickering fluorescents. high-end 3D animated feature film still, Pixar and DreamWorks quality CGI, hyper-detailed photorealistic fruit textures, realistic human body proportions, cinematic lighting, volumetric light, shallow depth of field, rich semi-realistic detailed background, subtle film grain, 8k. Vertical 9:16 composition. --ar 9:16

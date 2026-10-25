@@ -82,39 +82,39 @@ Tranquila, Lía. Si está aquí, lo encuentro. Te lo prometo.
 ```
 
 ### 04. Lía · plano 05 · en cámara → lip-sync
-Archivo: `P2_04_plano05_LÍA.mp3` · Interpretación: angustiada · Duración aprox.: 3.7 s
+Archivo: `P2_04_plano05_LÍA.mp3` · Interpretación: angustiada · Duración aprox.: 3.8 s
 
 ElevenLabs v3:
 ```
-[anxious] Voy para allá. No hagas nada tú solo, Bruno.
+[anxious] Voy para allá. Y no te hagas el héroe, ¿vale?
 ```
 Texto limpio:
 ```
-Voy para allá. No hagas nada tú solo, Bruno.
+Voy para allá. Y no te hagas el héroe, ¿vale?
 ```
 
 ### 05. Bruno · plano 07 · en cámara → lip-sync
-Archivo: `P2_05_plano07_BRUNO.mp3` · Interpretación: extrañado, en voz baja · Duración aprox.: 2.4 s
+Archivo: `P2_05_plano07_BRUNO.mp3` · Interpretación: extrañado, en voz baja · Duración aprox.: 3.4 s
 
 ElevenLabs v3:
 ```
-[puzzled, low] ¿Niebla...? ¿Aquí dentro?
+[puzzled, low] ¿Niebla...? ¿Aquí dentro? Qué random...
 ```
 Texto limpio:
 ```
-¿Niebla...? ¿Aquí dentro?
+¿Niebla...? ¿Aquí dentro? Qué random...
 ```
 
 ### 06. Rocco · plano 09 · en cámara → lip-sync
-Archivo: `P2_06_plano09_ROCCO.mp3` · Interpretación: nervioso, susurrando · Duración aprox.: 4.6 s
+Archivo: `P2_06_plano09_ROCCO.mp3` · Interpretación: nervioso, susurrando · Duración aprox.: 4.5 s
 
 ElevenLabs v3:
 ```
-[nervous whisper] Bruno... ¿qué haces aquí? Este pasillo no es de tu ronda.
+[nervous whisper] Bro... ¿qué haces aquí? Este pasillo no es de tu ronda.
 ```
 Texto limpio:
 ```
-Bruno... ¿qué haces aquí? Este pasillo no es de tu ronda.
+Bro... ¿qué haces aquí? Este pasillo no es de tu ronda.
 ```
 
 ### 07. Bruno · plano 10 · en cámara → lip-sync
@@ -130,15 +130,15 @@ Busco a un niño. Un arándano, de diez años. ¿Lo has visto?
 ```
 
 ### 08. Rocco · plano 11 · en cámara → lip-sync
-Archivo: `P2_08_plano11_ROCCO.mp3` · Interpretación: susurro asustado · Duración aprox.: 5.1 s
+Archivo: `P2_08_plano11_ROCCO.mp3` · Interpretación: susurro asustado · Duración aprox.: 4.9 s
 
 ElevenLabs v3:
 ```
-[whispering, scared] Vete a casa, Bruno. Esta noche no has visto nada. [pause] Por tu bien.
+[whispering, scared] Vete a casa, tío. Esta noche no has visto nada. [pause] Por tu bien.
 ```
 Texto limpio:
 ```
-Vete a casa, Bruno. Esta noche no has visto nada. Por tu bien.
+Vete a casa, tío. Esta noche no has visto nada. Por tu bien.
 ```
 
 ### 09. Bruno · plano 14 · en cámara → lip-sync
