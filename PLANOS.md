@@ -5,7 +5,7 @@
 Cómo usar este archivo:
 1. **Prompt de imagen** → pégalo en tu generador de imágenes (Midjourney, Nano Banana / Gemini, Flux, Leonardo, Ideogram…). Sube las **fichas de personaje** (ver `PERSONAJES.md`) como referencia para que salgan siempre iguales. El `--ar 9:16` es para Midjourney; en las demás elige formato vertical 9:16.
 2. **Prompt de animación** → sube la imagen generada a Kling, Hailuo, Veo, Runway o similar (imagen → vídeo) y pega este texto.
-3. Planos con diálogo **en cámara → lip-sync**: genera la voz con `VOCES.md` y aplica lip-sync al clip (función Lip Sync de Kling, Hedra, Sync o la que uses). Así se mueve la boca al hablar.
+3. En los planos con diálogo el prompt de animación ya pide la boca cerrada: la voz y el movimiento de la boca los añade después el motor de montaje.
 4. Si la herramienta genera clips de 5 o 10 s, recórtalos en el montaje a la duración indicada.
 
 **Prompt negativo** (si tu herramienta lo admite):
@@ -92,7 +92,7 @@ Medium close-up. Bruno (an anthropomorphic coconut man: his whole head is a real
 
 **🎬 Prompt de animación:**
 ```
-Bruno talks on the phone while scanning the dark corridor with his eyes. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Bruno talks on the phone while scanning the dark corridor with his eyes. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -115,7 +115,7 @@ Medium shot through the side window. Lía (an anthropomorphic strawberry woman: 
 
 **🎬 Prompt de animación:**
 ```
-Lía drives tensely; rain streams on the windshield; wipers move; street lights slide across her face. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Lía drives tensely; rain streams on the windshield; wipers move; street lights slide across her face. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -158,7 +158,7 @@ Medium wide shot. Bruno (an anthropomorphic coconut man: his whole head is a rea
 
 **🎬 Prompt de animación:**
 ```
-Mist flows out from under the shutter around Bruno's boots; he points the flashlight and tilts his head, puzzled. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Mist flows out from under the shutter around Bruno's boots; he points the flashlight and tilts his head, puzzled. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -201,7 +201,7 @@ Close-up. Rocco (a huge anthropomorphic pineapple man: his head and body have re
 
 **🎬 Prompt de animación:**
 ```
-Rocco glances nervously over his shoulder and talks quietly; drops of sweat freeze on his skin. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Rocco glances nervously over his shoulder and talks quietly; drops of sweat freeze on his skin. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -224,7 +224,7 @@ Medium close-up. Bruno (an anthropomorphic coconut man: his whole head is a real
 
 **🎬 Prompt de animación:**
 ```
-Bruno narrows his eyes and speaks firmly, holding the flashlight low. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Bruno narrows his eyes and speaks firmly, holding the flashlight low. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -247,7 +247,7 @@ Extreme close-up. Rocco (a huge anthropomorphic pineapple man: his head and body
 
 **🎬 Prompt de animación:**
 ```
-Rocco leans in close and whispers, his eyes darting; his breath turns to vapor. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Rocco leans in close and whispers, his eyes darting; his breath turns to vapor. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -308,7 +308,7 @@ Medium close-up, low angle. Bruno (an anthropomorphic coconut man: his whole hea
 
 **🎬 Prompt de animación:**
 ```
-Bruno slowly lifts the sneaker and looks at it, his face falling in horror. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Bruno slowly lifts the sneaker and looks at it, his face falling in horror. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -331,7 +331,7 @@ Medium two-shot. Lía (an anthropomorphic strawberry woman: her head is a real g
 
 **🎬 Prompt de animación:**
 ```
-Lía rushes into the room breathing hard; Bruno turns in his chair and silently holds up the sneaker. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Lía rushes into the room breathing hard; Bruno turns in his chair and silently holds up the sneaker. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -417,7 +417,7 @@ Close two-shot. Lía (an anthropomorphic strawberry woman: her head is a real gl
 
 **🎬 Prompt de animación:**
 ```
-Lía covers her mouth and whispers; Bruno stares, frozen; the monitor light flickers on their faces. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Lía covers her mouth and whispers; Bruno stares, frozen; the monitor light flickers on their faces. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
